@@ -35,7 +35,6 @@ class AddTaskList extends StatelessWidget {
             ),
             TextField(
               // autofocus: true,
-              // controller: textController,
               textAlign: TextAlign.center,
               onChanged: (String? newTask) {
 
